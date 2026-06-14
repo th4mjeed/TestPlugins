@@ -5,6 +5,6 @@ cloudstream {
     authors = listOf("thamjeed")
     status = 1
     tvTypes = listOf("Movie", "TvSeries")
-    iconUrl = "https://www.google.com/s2/favicons?domain=www.themoviedb.org&sz=%size%"
+    iconUrl = "https://raw.githubusercontent.com/th4mjeed/TestPlugins/master/Thamflix/thamflix-icon.svg"
     language = "en"
 }
