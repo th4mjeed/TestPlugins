@@ -1,0 +1,43 @@
+<svg width="500" height="500" viewBox="0 0 680 680" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Thamflix icon</title>
+  <desc>A bold streaming service icon for Thamflix featuring a stylized T and film reel elements on a dark red background</desc>
+
+  <style>
+    .bg { fill: #1a0a0a; }
+    .card { fill: #c0181a; }
+    .card2 { fill: #9c1012; }
+    .letter { fill: #ffffff; }
+    .dark { fill: #0d0505; }
+  </style>
+
+  <rect x="90" y="90" width="500" height="500" rx="80" class="bg"/>
+  <rect x="110" y="110" width="460" height="460" rx="64" class="card"/>
+  <rect x="110" y="450" width="460" height="120" rx="0" class="card2"/>
+  <path d="M110 450 L110 510 Q110 570 174 570 L506 570 Q570 570 570 510 L570 450 Z" class="card2"/>
+  <path d="M174 110 Q110 110 110 174 L110 162 L570 162 L570 174 Q570 110 506 110 Z" class="dark"/>
+  <rect x="110" y="110" width="460" height="52" rx="0" class="dark"/>
+  <path d="M174 110 Q110 110 110 174 L110 162 L570 162 L570 174 Q570 110 506 110 Z" class="dark"/>
+  <path d="M110 506 L570 506 L570 510 Q570 570 506 570 L174 570 Q110 570 110 510 Z" class="dark"/>
+
+  <rect x="138" y="122" width="30" height="28" rx="6" class="card"/>
+  <rect x="192" y="122" width="30" height="28" rx="6" class="card"/>
+  <rect x="246" y="122" width="30" height="28" rx="6" class="card"/>
+  <rect x="300" y="122" width="30" height="28" rx="6" class="card"/>
+  <rect x="354" y="122" width="30" height="28" rx="6" class="card"/>
+  <rect x="408" y="122" width="30" height="28" rx="6" class="card"/>
+  <rect x="462" y="122" width="30" height="28" rx="6" class="card"/>
+  <rect x="516" y="122" width="30" height="28" rx="6" class="card"/>
+
+  <rect x="138" y="518" width="30" height="28" rx="6" class="card2"/>
+  <rect x="192" y="518" width="30" height="28" rx="6" class="card2"/>
+  <rect x="246" y="518" width="30" height="28" rx="6" class="card2"/>
+  <rect x="300" y="518" width="30" height="28" rx="6" class="card2"/>
+  <rect x="354" y="518" width="30" height="28" rx="6" class="card2"/>
+  <rect x="408" y="518" width="30" height="28" rx="6" class="card2"/>
+  <rect x="462" y="518" width="30" height="28" rx="6" class="card2"/>
+  <rect x="516" y="518" width="30" height="28" rx="6" class="card2"/>
+
+  <rect x="160" y="210" width="360" height="72" rx="10" class="letter"/>
+  <rect x="304" y="210" width="72" height="270" rx="10" class="letter"/>
+  <rect x="160" y="210" width="360" height="12" rx="6" fill="rgba(255,255,255,0.25)"/>
+</svg>
