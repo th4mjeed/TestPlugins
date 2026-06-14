@@ -6,6 +6,7 @@ import com.lagradost.cloudstream3.plugins.BasePlugin
 import com.lagradost.cloudstream3.utils.*
 import com.lagradost.cloudstream3.utils.AppUtils.parseJson
 import com.lagradost.cloudstream3.utils.AppUtils.toJson
+import com.lagradost.cloudstream3.utils.ExtractorLinkType
 
 @CloudstreamPlugin
 class ThamflixPlugin : BasePlugin() {
@@ -193,10 +194,11 @@ class ThamflixProvider : MainAPI() {
                 source = "Vidlink",
                 name = "Vidlink",
                 url = playlist,
-                referer = "https://vidlink.pro/",
-                quality = Qualities.Unknown.value,
-                isM3u8 = true
-            )
+                type = ExtractorLinkType.M3U8
+            ) {
+                this.referer = "https://vidlink.pro/"
+                this.quality = Qualities.Unknown.value
+            }
         )
 
         return true
