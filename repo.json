@@ -1,0 +1,8 @@
+{
+    "name": "TestPlugins",
+    "description": "My CloudStream plugins",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/th4mjeed/TestPlugins/builds/plugins.json"
+    ]
+}

@@ -1,0 +1,86 @@
+[
+    {
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
+        "fileHash": "sha256-bfa4e72b94e66c3e5ae7ae60551cf820b19fffdfb0d0faea6c937fcbe1f8fdc2",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/th4mjeed/TestPlugins",
+        "fileSize": 7296,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Cloudburst",
+            "Luna712"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "ExampleProvider",
+        "description": "Lorem ipsum",
+        "url": "https://raw.githubusercontent.com/th4mjeed/TestPlugins/builds/ExampleProvider.cs3",
+        "name": "ExampleProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/th4mjeed/TestPlugins/master/Thamflix/thamflix-icon.svg",
+        "fileHash": "sha256-b5f93e8de267d48def22b91163550f52bf5955b4acd90f134c92a4e7e6249a17",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/th4mjeed/TestPlugins",
+        "fileSize": 29418,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "thamjeed"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Thamflix",
+        "description": "Thamflix \u2014 Movies and TV Shows via TMDB with Vidlink streaming",
+        "url": "https://raw.githubusercontent.com/th4mjeed/TestPlugins/builds/Thamflix.cs3",
+        "name": "Thamflix"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.themoviedb.org&sz=%size%",
+        "fileHash": "sha256-611df15a7c99cfac34d57670f9cf74a447e35e9c3a0f590b4db1e20dd135672a",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/th4mjeed/TestPlugins",
+        "fileSize": 29898,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "thamjeed"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "ThamStream",
+        "description": "Movies and TV Shows with multiple streaming sources",
+        "url": "https://raw.githubusercontent.com/th4mjeed/TestPlugins/builds/ThamStream.cs3",
+        "name": "ThamStream"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.themoviedb.org&sz=%size%",
+        "fileHash": "sha256-309275cd2e3057cf4e68460109c6b28e9f223f40caf46e62101739e777c481a2",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/th4mjeed/TestPlugins",
+        "fileSize": 26483,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "thamjeed"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "TmdbMovies",
+        "description": "Movies and TV Shows via TMDB \u2014 popular titles, genres, full metadata",
+        "url": "https://raw.githubusercontent.com/th4mjeed/TestPlugins/builds/TmdbMovies.cs3",
+        "name": "TmdbMovies"
+    }
+]
