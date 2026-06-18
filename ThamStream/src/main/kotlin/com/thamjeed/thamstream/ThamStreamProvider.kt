@@ -90,7 +90,7 @@ class ThamStreamProvider : MainAPI() {
         return if (isMovie) {
             newMovieLoadResponse(
                 name = title,
-                url = url,
+                url = "https://www.themoviedb.org/movie/${data.id}",
                 type = TvType.Movie,
                 dataUrl = url
             ) {
@@ -136,7 +136,7 @@ class ThamStreamProvider : MainAPI() {
 
             newTvSeriesLoadResponse(
                 name = title,
-                url = url,
+                url = "https://www.themoviedb.org/tv/${data.id}",
                 type = TvType.TvSeries,
                 episodes = episodes
             ) {
