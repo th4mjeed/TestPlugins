@@ -1,4 +1,4 @@
-package com.thamjeed
+package com.thamjeed.thamstream
 
 import com.lagradost.cloudstream3.*
 import com.lagradost.cloudstream3.plugins.CloudstreamPlugin
