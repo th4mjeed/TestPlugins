@@ -8,12 +8,6 @@ import com.lagradost.cloudstream3.utils.AppUtils.parseJson
 import com.lagradost.cloudstream3.utils.AppUtils.toJson
 import com.lagradost.cloudstream3.utils.ExtractorLinkType
 
-@CloudstreamPlugin
-class ThamStreamPlugin : BasePlugin() {
-    override fun load() {
-        registerMainAPI(ThamStreamProvider())
-    }
-}
 
 class ThamStreamProvider : MainAPI() {
     override var name = "ThamStream"
